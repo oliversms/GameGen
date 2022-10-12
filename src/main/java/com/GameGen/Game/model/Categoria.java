@@ -1,4 +1,4 @@
-package com.GameGen.Game;
+package com.GameGen.Game.model;
 
 import java.util.List;
 
@@ -11,7 +11,6 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
-
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

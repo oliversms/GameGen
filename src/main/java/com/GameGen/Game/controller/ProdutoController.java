@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.GameGen.Game.Produto;
+import com.GameGen.Game.model.Produto;
 import com.GameGen.Game.repository.ProdutoRepository;
 
 @RestController

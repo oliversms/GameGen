@@ -1,4 +1,4 @@
-package com.GameGen.Game;
+package com.GameGen.Game.model;
 
 import java.math.BigDecimal;
 
